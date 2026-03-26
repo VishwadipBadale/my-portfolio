@@ -11,7 +11,7 @@
 
 ## 🔗 Live Site
 
-🌐 **[vishwadipbadale.github.io/portfolio →]([https://vishwadipbadale.github.io/portfolio](https://VishwadipBadale.github.io/my-portfolio))**
+🌐 **[vishwadipbadale.github.io/portfolio →]([https://vishwadipbadale.github.io/portfolio](https://VishwadipBadale.github.io/my-portfolio)**
 
 ---
 
