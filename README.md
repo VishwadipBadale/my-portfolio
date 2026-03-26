@@ -11,7 +11,7 @@
 
 ## 🔗 Live Site
 
-🌐 **[vishwadipbadale.github.io/portfolio →](https://vishwadipbadale.github.io/portfolio)**
+🌐 **[vishwadipbadale.github.io/portfolio →]([https://vishwadipbadale.github.io/portfolio](https://VishwadipBadale.github.io/my-portfolio))**
 
 ---
 
@@ -67,7 +67,7 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3000](http://localhost:5173) in your browser.
 
 ---
 
